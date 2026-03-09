@@ -1,1 +1,5 @@
 @import "tailwindcss";
+
+.hvg{
+  color: rgba(16,185,129,0.25);
+}
